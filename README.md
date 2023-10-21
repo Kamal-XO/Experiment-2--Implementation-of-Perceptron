@@ -121,13 +121,13 @@ plt.show()
 ```
 ## Output :
 ![output](https://user-images.githubusercontent.com/94228215/231069599-9f0de98c-a0f6-4ef5-b810-0e2f5fbc7287.png)
-SCATTER PLOT:
+### SCATTER PLOT:
 ![output](https://user-images.githubusercontent.com/94228215/231069875-585c6d02-5a6b-44e4-8be0-a4b1c549ead4.png)
 
-ERROR PLOT:
+### ERROR PLOT:
 ![output](https://user-images.githubusercontent.com/94228215/231069968-25998894-0603-40bb-b40a-ef24252b5548.png)
 
-ACCURACY:
+### ACCURACY:
 ![output](https://user-images.githubusercontent.com/94228215/231070263-9b563a10-799e-40fc-8841-7bebd5a28f64.png)
 
 ## Result :

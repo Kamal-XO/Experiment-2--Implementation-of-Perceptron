@@ -132,5 +132,5 @@ plt.show()
 
 ## Result :
 
-![image](https://github.com/Kamal-XO/Experiment-2--Implementation-of-Perceptron/assets/113497392/ef539068-1637-49ca-9090-77d9d86c332b)
+Thus a perceptron for classification is implemented using python
 
